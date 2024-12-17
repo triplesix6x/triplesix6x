@@ -8,8 +8,6 @@ hi there and welcome to my personal profile...and it will be more filled soon...
 ...i guess when i will make some cool things here :) 
 ```
 ESC
-:w
-:q
-$ cd
+:wqa
 $ shutdown now
 ```
